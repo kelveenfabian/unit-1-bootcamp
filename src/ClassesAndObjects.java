@@ -1,15 +1,11 @@
-<<<<<<< HEAD
 package Java_Bank_Pursuit_HW_FABIAN_KELVEEN;
 
 import java.util.ArrayList;
 import java.util.Collections;
-=======
->>>>>>> 90267823ff88ed844cd7ac7e147b6fe3ed25d1cb
 
 public class ClassesAndObjects {
 
   public static void main (String args[]) {
-<<<<<<< HEAD
     //Question 1
     Cat cat1 = new Cat("Garfield");
     Cat cat2 = new Cat("Pink Panther");
@@ -106,8 +102,4 @@ public class ClassesAndObjects {
   }
 
 
-=======
-
-  }
->>>>>>> 90267823ff88ed844cd7ac7e147b6fe3ed25d1cb
 }

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package Java_Bank_Pursuit_HW_FABIAN_KELVEEN;
 
 import java.util.ArrayList;
@@ -209,12 +208,3 @@ public class DataStructures {
     }
 }
 
-=======
-
-public class DataStructures {
-
-  public static void main (String args[]) {
-
-  }
-}
->>>>>>> 90267823ff88ed844cd7ac7e147b6fe3ed25d1cb

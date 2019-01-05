@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 package Java_Bank_Pursuit_HW_FABIAN_KELVEEN;
-=======
->>>>>>> 90267823ff88ed844cd7ac7e147b6fe3ed25d1cb
 
 public class Cat {
 
