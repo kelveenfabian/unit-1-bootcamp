@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package Java_Bank_Pursuit_HW_FABIAN_KELVEEN;
 
 public class Conditionals {
@@ -236,4 +237,12 @@ public class Conditionals {
     }
 
 
+=======
+
+public class Conditionals {
+
+  public static void main (String args[]) {
+
+  }
+>>>>>>> 90267823ff88ed844cd7ac7e147b6fe3ed25d1cb
 }

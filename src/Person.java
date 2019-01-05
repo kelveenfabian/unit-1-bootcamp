@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 package Java_Bank_Pursuit_HW_FABIAN_KELVEEN;
+=======
+>>>>>>> 90267823ff88ed844cd7ac7e147b6fe3ed25d1cb
 
 public class Person {
   private String name;
@@ -32,8 +35,12 @@ public class Person {
     return name;
   }
 
+<<<<<<< HEAD
   public void setName(String name)
   {
+=======
+  public void setName(String name) {
+>>>>>>> 90267823ff88ed844cd7ac7e147b6fe3ed25d1cb
     this.name = name;
   }
 }

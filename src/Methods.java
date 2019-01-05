@@ -1,10 +1,14 @@
+<<<<<<< HEAD
 package Java_Bank_Pursuit_HW_FABIAN_KELVEEN;
 
 import java.util.Random;
+=======
+>>>>>>> 90267823ff88ed844cd7ac7e147b6fe3ed25d1cb
 
 public class Methods {
 
   public static void main (String args[]) {
+<<<<<<< HEAD
 //    System.out.println(calculateSquare(3));//9
 //    System.out.println(calculateSquareRoot(9));//3
 //    System.out.println(toLowerCase("Hello World! How are you doing?"));
@@ -71,4 +75,8 @@ public class Methods {
     return randomNum;
   }
 
+=======
+
+  }
+>>>>>>> 90267823ff88ed844cd7ac7e147b6fe3ed25d1cb
 }
